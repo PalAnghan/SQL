@@ -1,0 +1,89 @@
+Date 13-10-2026
+
+# SQL Keywords List With Meanings
+
+-- CREATE >> Create a database or object
+-- DATABASE >> Container for database objects
+-- USE >> Select a database
+-- SHOW >> Display database information
+-- TABLE >> Store data in rows and columns
+-- DESC >> Describe table structure
+-- ALTER >> Modify the structure of an existing database object
+-- ADD >> Add a column 
+-- MODIFY >> Changes a columns definition
+-- RENAME >> Rename an object or column
+-- DROP >> Remove a database object
+-- TRUNCATE >> Remove all table rows
+-- INSERT >> Add new records into a table
+-- INTO >> Specify the target table
+-- VALUES >> Specify inserted values
+-- SELECT >> Retrieve data
+-- FROM >> Specify the source table
+-- DICTINCT >> Remove duplicate result roes
+-- WHERE >> Filter rows
+-- AND >> Both condition must be true
+-- OR >> At least one condition must be true 
+-- NOT >> Negate a condition
+-- IN >> Match any value in a list
+-- BETWEEN >> Check a range
+-- LIKE >> Match a text pattern
+-- IS NULL >> Check for Null Values
+-- Update >> Modify records
+-- SET >> Specify new values
+-- DELETE >> Remove records 
+-- ORDER BY >> Sort query results
+-- ASC >> Ascending Order ( A - Z ) (0 - 9 )
+-- DESC >> Descending Order ( Z - A ) ( 9 - 0 )
+-- LIMIT >> Restrict  Returned rows
+-- AS >> Assign an Alias 
+-- COUNT >> Count rows or non-Null values
+-- SUM() >> Calculate a total
+-- AVG() >> Calculate a average
+-- MIN() >> Find the minimum
+-- MAX() >> Find the maximum 
+-- GROUP BY >> Group record
+-- HAVING >> Filter Group 
+-- CASE >> Conditional expression
+-- WHEN >> Specify a CASE condition 
+-- THEN >> Specify a CASE result
+-- ELSE >> Specify a fallback result
+-- END >> End a CASE Expression
+-- JOIN >> Combine Table
+ 1) INNER JOIN >> Return matching record
+ 2) LEFT JOIN >> Keep all left-table rows
+ 3) RIGHT JOIN >> Keep all right-table rows
+-- ON >> Specify a join condition
+-- UNION >> Combine Results , removing duplicates 
+-- EXISTS >> Check Whether a subquery
+-- WITH >> Define a CTE (Common Table Expression)
+-- VIEW >> Saved Query
+-- INDEX >> Help speedup data retrieval
+-- PRIMARY KEY >> Uniquely Identify a row
+-- FOREIGN KEY >> Link tables
+-- NOT NULL >> Disallow NULL values
+-- UNIQUE >> Enforce uniqueness
+-- CHECK >> Enforce a conditions 
+-- DEFAULT >> Set a default value
+-- AUTO_INCREMENT >> Generate increasing integer values
+-- REVOKE >> Remove database privileges 
+
+
+
+## SQL COMMAND CATTEGORIES 
+
+1. DDL = Data Definition Language 
+ - Used to create or modify database structure
+
+2. DML = Data Manipulation Language
+ - Used to insert , modify or remove table data
+
+3. DQL = Data Query Language 
+ - Used to retrieve data from the database
+
+4. DCL = Data Control Language 
+ - Used to manage database access and permissions 
+
+5. TCL  = Transaction Control Language 
+ - Used to manage database  transaction    
+ 
+ 
