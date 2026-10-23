@@ -1,0 +1,40 @@
+Date : 12-10-2026
+
+
+
+What is Database ?
+- A database is structure collection of data is store and manage in a way that allows for efficient retrieval, manipulation, and management of information.
+- Database are designed to handle large amounts of data and facilitate operations such as querying , updating and managing that data. 
+
+what is data ?
+- Data means row facts and information that can be stored process and analytic.
+ 
+
+Types of Databases:
+
+1. Relational Databases: Use tables to represent data and relationships between them (e.g., MySQL, PostgreSQL).
+
+2. Non-Relational / NoSQL Databases: Designed for unstructured data and can handle various data models like key-value, document, column-family, or graph (e.g., MongoDB, Cassandra).
+
+3. Object-Oriented Databases: Store data in the form of objects, similar to object-oriented programming (e.g., db4o).
+
+4. Hierarchical Databases: Organize data in a tree-like structure (e.g., IBM's Information Management System).
+
+5. Network Databases: More flexible than hierarchical databases, allowing more complex relationships (e.g., Integrated Data Store).
+
+
+Introduction to SQL
+
+SQL (Structured Query Language) is a standard language used to interact with relational databases. It enables users to store, retrieve, update, and delete data efficiently. SQL is widely used in database management systems such as MySQL, PostgreSQL, Oracle, and SQL Server.
+
+Key Features of SQL
+
+1. Declarative Language – SQL focuses on what needs to be done rather than how it should be executed.
+
+2. Portable – SQL works with various database management systems.
+
+3. Standardized – ANSI (American National Standards Institute) has standardized SQL.
+
+4. Powerful Querying Capabilities – SQL allows data retrieval, filtering, aggregation, and manipulation.
+
+5. Security & Access Control – SQL supports user permissions and role-based access.
